@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DrinkAndGo.PL</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/DrinkAndGo.PL.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/fontawesome-iconpicker/css/fontawesome-iconpicker.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+            <div class="container">
+                @* <a class="navbar-brand">Fixed navbar</a> *@
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" asp-controller="Home" asp-action="Index">Drink&Go</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="About" asp-action="Index">About</a>
+                        </li>
+                        @await Component.InvokeAsync("CategoryMenu")
+
+                        @await Component.InvokeAsync("ShoppingCartSummary")
+                    </ul>
+                    <form class="d-flex" role="search" asp-controller="Drink" asp-action="Search">
+                        <input class="form-control me-2" type="search" placeholder="search for a drink" name="searchString" value="@ViewData["SearchInput"]" aria-label="search">
+                        <button class="btn btn-outline-success" type="submit" value="search">search</button>
+                    </form>
+                   @*  <form asp-controller="Drink" asp-action="Index" class="row  w-100 d-flex">
+                        <div class="w-75">
+                            <input type="text" name="SearchInput" id="SearchInput" class="form-control mx-3" placeholder="-- Search --" />
+                        </div>
+
+                        <div class="">
+                            <input type="submit" value="Search" class="btn btn-success  mx-4" />
+                        </div>
+                    </form> *@
+                    @await Html.PartialAsync("LoginPartial")
+
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @* <footer class=" footer text-muted">
+        <div class="container">
+            &copy; 2024 - DrinkAndGo.PL - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer> *@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/fontawesome-iconpicker/js/fontawesome-iconpicker.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

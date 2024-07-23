@@ -1,0 +1,24 @@
+﻿@model Drink
+<div class="container marginTop">
+    <div class="row">
+        <div class="text-center view overlay hm-white-slight col-md-5">
+                <img src="@Model.ImageUrl" class="img-fluid" alt="">
+                <a href="#">
+                    <div class="mask waves-effect waves-light"></div>
+                </a>
+            </div>
+        <div class="card-block col-md-7">
+                <!--Title-->
+                <h3 class="card-title">@Model.Name</h3>
+                <!--Text-->
+                <p class="card-text">@Model.LongDescription.</p>
+                <p class="btn btn-group pull-right">
+                    <a class="btn btn-success" id="cartButton" asp-controller="ShoppingCart" asp-action="AddToShoppingCart" asp-route-drinkId="@Model.DrinkId">
+                        Add @Model.Name to cart
+                    </a>
+                    <a asp-controller="Drink" asp-action="List" class="btn btn-dark">Add More Drinks</a>
+
+                </p>
+        </div>
+    </div>
+</div>

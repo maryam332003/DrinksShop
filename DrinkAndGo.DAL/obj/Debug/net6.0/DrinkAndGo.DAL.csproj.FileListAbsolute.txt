@@ -1,0 +1,28 @@
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\bin\Debug\net6.0\DrinkAndGo.DAL.deps.json
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\bin\Debug\net6.0\DrinkAndGo.DAL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\bin\Debug\net6.0\DrinkAndGo.DAL.pdb
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.AssemblyInfoInputs.cache
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.AssemblyInfo.cs
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\obj\Debug\net6.0\refint\DrinkAndGo.DAL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.pdb
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\obj\Debug\net6.0\ref\DrinkAndGo.DAL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\bin\Debug\net6.0\DrinkAndGo.DAL.runtimeconfig.json
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.csproj.AssemblyReference.cache
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.genruntimeconfig.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\bin\Debug\net6.0\DrinkAndGo.DAL.deps.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\bin\Debug\net6.0\DrinkAndGo.DAL.runtimeconfig.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\bin\Debug\net6.0\DrinkAndGo.DAL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\bin\Debug\net6.0\DrinkAndGo.DAL.pdb
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.csproj.AssemblyReference.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.AssemblyInfoInputs.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.AssemblyInfo.cs
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\obj\Debug\net6.0\refint\DrinkAndGo.DAL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.pdb
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\obj\Debug\net6.0\DrinkAndGo.DAL.genruntimeconfig.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.DAL\obj\Debug\net6.0\ref\DrinkAndGo.DAL.dll

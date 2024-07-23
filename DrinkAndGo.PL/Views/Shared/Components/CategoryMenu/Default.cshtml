@@ -1,0 +1,20 @@
+﻿<!-- Example split danger button -->
+<div class="btn-group">
+    <button type="button" class="dropdownBtn">Drinks</button>
+    <button type="button" class="dropdownBtn dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+        <span class="visually-hidden">Toggle Dropdown</span>
+    </button>
+    <ul class="dropdown-menu" style="background-color:#212529; color: white;">
+        @foreach (var category in Model)
+        {
+            <li class="mx-2 my-2" style="color: white;">
+                <a style="text-decoration:none;list-style:none;color: white;" asp-controller="Drink" asp-action="List"
+                   asp-route-category="@category.CategoryName">@category.CategoryName</a>
+            </li>
+        }
+        <li><hr class="dropdown-divider"></li>
+        <li>
+            <a style="color: white;" class="mx-2 my-2" asp-controller="Drink" asp-action="List" asp-route-category="">View all drinks</a>
+        </li>
+    </ul>
+</div>

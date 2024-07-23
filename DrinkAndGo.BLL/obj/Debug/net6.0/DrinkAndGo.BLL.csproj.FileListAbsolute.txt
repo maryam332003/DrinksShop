@@ -1,0 +1,30 @@
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\bin\Debug\net6.0\DrinkAndGo.BLL.deps.json
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\bin\Debug\net6.0\DrinkAndGo.BLL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\bin\Debug\net6.0\DrinkAndGo.BLL.pdb
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\bin\Debug\net6.0\DrinkAndGo.DAL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\bin\Debug\net6.0\DrinkAndGo.DAL.pdb
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.csproj.AssemblyReference.cache
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.AssemblyInfoInputs.cache
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.AssemblyInfo.cs
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAnd.632D92EF.Up2Date
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\obj\Debug\net6.0\refint\DrinkAndGo.BLL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.pdb
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.BLL\obj\Debug\net6.0\ref\DrinkAndGo.BLL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\bin\Debug\net6.0\DrinkAndGo.BLL.deps.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\bin\Debug\net6.0\DrinkAndGo.BLL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\bin\Debug\net6.0\DrinkAndGo.BLL.pdb
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\bin\Debug\net6.0\DrinkAndGo.DAL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\bin\Debug\net6.0\DrinkAndGo.DAL.pdb
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.csproj.AssemblyReference.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.AssemblyInfoInputs.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.AssemblyInfo.cs
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAnd.632D92EF.Up2Date
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\obj\Debug\net6.0\refint\DrinkAndGo.BLL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\obj\Debug\net6.0\DrinkAndGo.BLL.pdb
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.BLL\obj\Debug\net6.0\ref\DrinkAndGo.BLL.dll

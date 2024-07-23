@@ -1,0 +1,186 @@
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\appsettings.json
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.PL.staticwebassets.runtime.json
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.PL.exe
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.PL.deps.json
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.PL.runtimeconfig.json
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.PL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.PL.pdb
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.BLL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.DAL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.BLL.pdb
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.DAL.pdb
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.csproj.AssemblyReference.cache
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.AssemblyInfoInputs.cache
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.AssemblyInfo.cs
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.csproj.CoreCompileInputs.cache
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.RazorAssemblyInfo.cache
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.RazorAssemblyInfo.cs
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets\msbuild.DrinkAndGo.PL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets\msbuild.build.DrinkAndGo.PL.props
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DrinkAndGo.PL.props
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DrinkAndGo.PL.props
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\scopedcss\bundle\DrinkAndGo.PL.styles.css
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\scopedcss\projectbundle\DrinkAndGo.PL.bundle.scp.css
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAnd.51FE51E8.Up2Date
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\refint\DrinkAndGo.PL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.pdb
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.genruntimeconfig.cache
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\obj\Debug\net6.0\ref\DrinkAndGo.PL.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ht\OneDrive\Desktop\DrinkAndGo\DrinkAndGo.PL\bin\Debug\net6.0\libman.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\appsettings.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\libman.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.PL.staticwebassets.runtime.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.PL.exe
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.PL.deps.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.PL.runtimeconfig.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.PL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.PL.pdb
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.BLL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.DAL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.BLL.pdb
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\bin\Debug\net6.0\DrinkAndGo.DAL.pdb
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.csproj.AssemblyReference.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.AssemblyInfoInputs.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.AssemblyInfo.cs
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.csproj.CoreCompileInputs.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.RazorAssemblyInfo.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.RazorAssemblyInfo.cs
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets\msbuild.DrinkAndGo.PL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets\msbuild.build.DrinkAndGo.PL.props
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DrinkAndGo.PL.props
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DrinkAndGo.PL.props
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\scopedcss\bundle\DrinkAndGo.PL.styles.css
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\scopedcss\projectbundle\DrinkAndGo.PL.bundle.scp.css
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAnd.51FE51E8.Up2Date
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\refint\DrinkAndGo.PL.dll
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.pdb
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\DrinkAndGo.PL.genruntimeconfig.cache
+C:\Users\ht\OneDrive\Desktop\Drink&Go Shop\DrinkAndGo.PL\obj\Debug\net6.0\ref\DrinkAndGo.PL.dll
