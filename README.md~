@@ -1,8 +1,19 @@
 ##DrinksShop
-DrinksShop is a web application built using ASP.NET Core MVC that provides a comprehensive platform for browsing, purchasing, and managing various drink products. The application aims to offer users a seamless and interactive experience, allowing them to view detailed information about drinks, add them to their shopping cart, and complete purchases securely.
+###DrinksShop is a web application built using ASP.NET Core MVC that provides a comprehensive platform for browsing, purchasing, and managing various drink products. The application aims to offer users a seamless and interactive experience, allowing them to view detailed information about drinks, add them to their shopping cart, and complete purchases securely.
 
-Features
-User Authentication and Authorization
+###Technologies Used
+HTML, CSS, JavaScript
+Bootstrap for responsive design
+ASP.NET Core MVC for building the web application
+ASP.NET Identity for user authentication and authorization
+Entity Framework Core for database interactions
+Database SQL Server for storing application data
+Version Control
+Git for version control
+GitHub for repository hosting
+
+###Features
+-User Authentication and Authorization
 
 Secure registration and login functionalities using ASP.NET Identity.
 Role-based access control to restrict certain actions to authenticated users.
@@ -23,20 +34,4 @@ Admin Panel
 
 Manage drink inventory including adding, editing, and deleting drinks.
 View and manage user accounts and roles.
-Technologies Used
-Frontend
 
-HTML, CSS, JavaScript
-Bootstrap for responsive design
-Backend
-
-ASP.NET Core MVC for building the web application
-ASP.NET Identity for user authentication and authorization
-Entity Framework Core for database interactions
-Database
-
-SQL Server for storing application data
-Version Control
-
-Git for version control
-GitHub for repository hosting
